@@ -1,0 +1,17 @@
+.inner{
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+
+
+/* head */
+#head_layout{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: aqua;
+    height: 100px;
+}
